@@ -1,0 +1,25 @@
+{
+  "name": "vaibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overthinker29/vaibot.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Vaibhav Nachankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overthinker29/vaibot/issues"
+  },
+  "homepage": "https://github.com/overthinker29/vaibot#readme",
+  "dependencies": {
+    "react-simple-chatbot": "^0.2.10"
+  }
+}
